@@ -1,0 +1,2 @@
+Array
+Un array es una matriz, en terminos mas burdos, es una lista. Se pueden utilizar para acceder a un conjunto de datos, sean valores, string funciones, etc. y leerlos o modificarlos.
